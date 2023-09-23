@@ -5,14 +5,10 @@
 
 ## Technical Skills
 **Area:** Machine Learning, Deep learning, Business Analytics, Data Visualization, Data Pipeline, Statistical Modelling, SQL.
-
-**Python Libraries:** Web scrapping, NumPy, Panda, Scikit-learn, Beautiful Soup, Seaborn, Matplotlib.
-
-**R libraries:** tidyverse, dplyr, ggplot22, tidyr, readr, etc.
-
-**Cloud Technologies:** Google cloud console, AWS, Azure, BigQuery, AutoML.
-
-**Tools and Software:** Excel, Power BI, Tableau, Qlik View, MySQL
+<br>**Python Libraries:** Web scrapping, NumPy, Panda, Scikit-learn, Beautiful Soup, Seaborn, Matplotlib.
+<br>**R libraries:** tidyverse, dplyr, ggplot22, tidyr, readr, etc.
+<br>**Cloud Technologies:** Google cloud console, AWS, Azure, BigQuery, AutoML.
+<br>**Tools and Software:** Excel, Power BI, Tableau, Qlik View, MySQL
 
 
 ## Specilization
