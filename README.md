@@ -27,8 +27,8 @@ Highly skilled and creative Data Scientist with a passion for developing success
 <br>**Skills**: SQL, Job portfolio, Data Cleansing, Data Analysis, Data Visualization (DataViz), Metadata, Data Collection, 
               Data Ethics, Tablue , Data Calculations, Data Aggregation, R Programming
 <br>**Outcomes**:
-•	Attained an in-depth understanding of the roles and responsibilities of a junior data analyst, laying the foundation for effectively carrying out similar tasks.
-•	Developed proficiency in critical analytical techniques and gained hands-on experience with widely used data analysis and visualization tools.
-•	Demonstrated the ability to effectively clean and prepare data for analysis, conducted insightful data analysis, and conducted calculations using different data analysis tools.
+-	Attained an in-depth understanding of the roles and responsibilities of a junior data analyst, laying the foundation for effectively carrying out similar tasks.
+-	Developed proficiency in critical analytical techniques and gained hands-on experience with widely used data analysis and visualization tools.
+-	Demonstrated the ability to effectively clean and prepare data for analysis, conducted insightful data analysis, and conducted calculations using different data analysis tools.
 
 
