@@ -1,20 +1,27 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Objective
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Technical Skills
+**Area:** Machine Learning, Deep learning, Business Analytics, Data Visualization, Data Pipeline, Statistical Modelling, SQL.
+**Python Libraries:** Web scrapping, NumPy, Panda, Scikit-learn, Beautiful Soup, Seaborn, Matplotlib.
+**R libraries:** tidyverse, dplyr, ggplot22, tidyr, readr, etc.
+**Cloud Technologies:** Google cloud console, AWS, Azure, BigQuery, AutoML.
+**Tools and Software:** Excel, Power BI, Tableau, Qlik View, MySQL
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+## Specilization
+**Specialization - 1**: Google Cloud Big Data and Machine Learning Fundamentals Credential
+**Offered by**: Google
+**Skills**: SQL, Bigquery, Google cloud console, Qwillabs, Google Cloud Platform, Cloud Computing, ETL, ELT
+**Outcomes**:
+-	Developed a comprehensive understanding of data-to-AI processes, enabling effective utilization of Google Cloud's big data and machine learning solutions.
+-	Implemented efficient streaming pipelines that facilitated seamless data flow and real-time data processing, resulting in up-to-date insights and improved data-driven decision-making.
+-	Gained insights into the different tools and technologies on Google Cloud, enabling informed decisions in selecting the most suitable approach for machine learning projects.
+-	Implemented an end-to-end machine learning pipeline leveraging Vertex AI and AutoML, streamlining development and deployment of machine learning models, leading to accelerated model delivery and improved model performance
+
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
