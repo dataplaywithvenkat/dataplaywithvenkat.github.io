@@ -31,10 +31,10 @@ Highly skilled and creative Data Scientist with a passion for developing success
 -	Developed proficiency in critical analytical techniques and gained hands-on experience with widely used data analysis and visualization tools.
 -	Demonstrated the ability to effectively clean and prepare data for analysis, conducted insightful data analysis, and conducted calculations using different data analysis tools.
 
-**Specialization**: Data Science: Foundations using R Credential
-**Offered by**: Johns Hopkins University (USA)
-**Skills** : Data Science, Machine Learning, Github, R Programming, Exploratory Data Analysis, Rstudio.
-**Outcomes**:
+<br>**<u>Specialization</u>**: Data Science: Foundations using R Credential
+<br>**Offered by**: Johns Hopkins University (USA)
+<br>**Skills** : Data Science, Machine Learning, Github, R Programming, Exploratory Data Analysis, Rstudio.
+<br>**Outcomes**:
 -	Streamlined data analysis workflows, enabling informed decision-making and improved data-driven strategies.
 -	Enhanced research integrity, producing trustworthy findings and fostering confidence in data-driven conclusions.
 -	Improved project efficiency, enhanced team collaboration, and simplified project tracking, leading to successful project completion and streamlined data science workflows.
